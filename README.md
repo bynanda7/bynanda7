@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bynanda7&show_icons=true&count_private=true&hide_border=true&title_color=ff00c6&icon_color=ff00c6&text_color=c9d1d9&bg_color=0d1117" alt="Fernanda Leite github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bynanda7&layout=compact&hide_border=true&title_color=ff00c6&text_color=ff00c6&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bynanda7&show_icons=true&count_private=true&hide_border=true&title_color=ff00c6&icon_color=ff00c6&text_color=c9d1d9&bg_color=000000" alt="Fernanda Leite github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bynanda7&layout=compact&hide_border=true&title_color=ff00c6&text_color=ff00c6&bg_color=000000" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bynanda7&bg_color=000000&color=ff00c6&line=fbacdb&point=f730b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
